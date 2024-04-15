@@ -1,2 +1,86 @@
-# ICTP-UNU-TinyML
-Workshop on TinyML for SDG at UNU in April 2024
+# Draft Agenda
+
+## **Day 1 – April 26**
+
+10:00-10:30 - Opening (case studies, group projects) and [presentation of participants](https://padlet.com/marcozennaro/ictp-unu-workshop-on-tinyml-for-sustainable-development-7n4fxbg8eu6xsg5g)) 
+
+10:30-11:00 - Networking break
+
+11:00-12:00 - Keynote: TinyML for Good (Thomas Basikolo, ITU) 
+
+12:00-1:00 - Lunch break
+
+1:00-2:00 - Introduction to TinyML (Marco Zennaro, ICTP)
+
+2:00-3:00 - Presentation of TinyML projects (Seeed)
+
+3:00-3:30 - Networking break
+
+4:30-5:30  - Edge Impulse Overview or Teachable Machine (Marco Zennaro, ICTP)
+
+## Day 2 – April 27 (Video)
+
+9:00-10:00 - Intro to ML + Convolutions (Thomas Basikolo, ITU)
+
+10:00-10:30 - Coffee break
+
+10:30-11:30 -IoT for SDGs (Serge Stinckwich, UNU) 
+
+11:30-12:00 -Intro to Arduino (Serge Stinckwich,UNU)
+
+12:00-1:00 - Lunch break
+
+1:00-2:00 - Lab: Hands-On Computer Vision (Seeed)
+
+2:00-3:00 - Lab: Hands-On Computer Vision (Seeed)
+
+3:00-3:30 - Coffee break
+
+3:30-5:00 - Lab: Hands-On Computer Vision (Seeed)
+
+## Day 3 – April 28 (Audio)
+
+9:00-10:00 - Preprocessing for Audio and Keyword Spotting (Marco Zennaro, ICTP)
+10:00-10:30 - Coffee break
+
+10:30-11:30 - Ethics of AI and LLM (Serge Stinckwich, UNU / Ally)
+
+11:30 - 12:00 - Moral Machine (Serge Stinckwich, UNU / Ally)
+
+12:00-1:00 - Lunch break
+
+1:00-2:00 - Lab: Hands-On Keyword Spotting (Seeed)
+
+2:00-3:00 - Lab: Hands-On Keyword Spotting  (Seeed)
+
+3:00-3:30 - Coffee break
+
+3:30-5:00 - Lab: Hands-On Keyword Spotting  (Seeed)
+
+## Day 4 – April 29 (Group project)**
+
+9:00-10:00 -  AI for Good (Thomas Basikolo, ITU)
+
+10:00-10:30 - Coffee break
+
+10:30-12:00 - Prompt Engineering (Serge Stinckwich, UNU) 
+
+12:00-1:00 - Lunch break
+
+1:00-2:00 - Group project
+
+2:00-3:00 - Group project
+
+3:00-3:30 - Coffee break
+
+3:30-5:00 - Group project
+
+## Day 5 – April 30
+
+9:00-10:00 - Presentations of Group Projects / Case Studies from Participants
+
+10:00-10:30 - Coffee break
+
+10:30-12:00 - Group Discussion and Workshop closing and Certificates + TinyML Academic Network
+
+12:00-1:00 - Lunch break
