@@ -22,7 +22,7 @@
 
 9:00-10:00 - Intro to ML + Convolutions (Thomas Basikolo, ITU)
 
-10:00-10:30 - Coffee break
+10:00-10:30 - Networking break
 
 10:30-11:30 -IoT for SDGs (Serge Stinckwich, UNU) 
 
@@ -34,14 +34,15 @@
 
 2:00-3:00 - Lab: Hands-On Computer Vision (Seeed)
 
-3:00-3:30 - Coffee break
+3:00-3:30 - Networking break
 
 3:30-5:00 - Lab: Hands-On Computer Vision (Seeed)
 
 ## Day 3 – April 28 (Audio)
 
 9:00-10:00 - Preprocessing for Audio and Keyword Spotting (Marco Zennaro, ICTP)
-10:00-10:30 - Coffee break
+
+10:00-10:30 - Networking break
 
 10:30-11:30 - Ethics of AI and LLM (Serge Stinckwich, UNU / Ally)
 
@@ -53,7 +54,7 @@
 
 2:00-3:00 - Lab: Hands-On Keyword Spotting  (Seeed)
 
-3:00-3:30 - Coffee break
+3:00-3:30 - Networking break
 
 3:30-5:00 - Lab: Hands-On Keyword Spotting  (Seeed)
 
@@ -61,7 +62,7 @@
 
 9:00-10:00 -  AI for Good (Thomas Basikolo, ITU)
 
-10:00-10:30 - Coffee break
+10:00-10:30 - Networking break
 
 10:30-11:30 - Prompt Engineering (Serge Stinckwich, UNU) 
 
@@ -71,7 +72,7 @@
 
 1:30-3:00 - Group project
 
-3:00-3:30 - Coffee break
+3:00-3:30 - Networking break
 
 3:30-5:00 - Group project
 
