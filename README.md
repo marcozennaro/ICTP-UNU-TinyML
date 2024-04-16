@@ -63,13 +63,13 @@
 
 10:00-10:30 - Coffee break
 
-10:30-12:00 - Prompt Engineering (Serge Stinckwich, UNU) 
+10:30-11:30 - Prompt Engineering (Serge Stinckwich, UNU) 
 
-12:00-1:00 - Lunch break
+11:30-12:30 - Empower every stage of TinyML application development (Liliya Wu, ARM)
 
-1:00-2:00 - Group project
+12:30-1:30 - Lunch break
 
-2:00-3:00 - Group project
+1:30-3:00 - Group project
 
 3:00-3:30 - Coffee break
 
