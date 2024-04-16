@@ -58,7 +58,7 @@
 
 3:30-5:00 - Lab: Hands-On Keyword Spotting  (Seeed)
 
-## Day 4 – April 29 (Group project)**
+## Day 4 – April 29 (Group project)
 
 9:00-10:00 -  AI for Good (Thomas Basikolo, ITU)
 
