@@ -12,7 +12,7 @@
 
 1:00-2:00 - Introduction to TinyML (Marco Zennaro, ICTP)
 
-2:00-3:00 - Presentation of TinyML projects (Seeed)
+2:00-3:00 - Presentation of TinyML projects (Ellie Cai, Community Manager, Seeed Studio)
 
 3:00-3:30 - Networking break
 
@@ -30,13 +30,13 @@
 
 12:00-1:00 - Lunch break
 
-1:00-2:00 - Lab: Hands-On Computer Vision (Seeed)
+1:00-2:00 - Lab: Hands-On Computer Vision (Citric Li, Application Engineer, Seeed Studio and Allen Kuang, Application Engineer, Seeed Studio)
 
-2:00-3:00 - Lab: Hands-On Computer Vision (Seeed)
+2:00-3:00 - Lab: Hands-On Computer Vision (Citric Li, Application Engineer, Seeed Studio and Allen Kuang, Application Engineer, Seeed Studio)
 
 3:00-3:30 - Networking break
 
-3:30-5:00 - Lab: Hands-On Computer Vision (Seeed)
+3:30-5:00 - Lab: Hands-On Computer Vision (Citric Li, Application Engineer, Seeed Studio and Allen Kuang, Application Engineer, Seeed Studio)
 
 ## Day 3 – April 28 (Audio)
 
@@ -50,13 +50,13 @@
 
 12:00-1:00 - Lunch break
 
-1:00-2:00 - Lab: Hands-On Keyword Spotting (Seeed)
+1:00-2:00 - Lab: Hands-On Keyword Spotting (Citric Li, Application Engineer, Seeed Studio and Allen Kuang, Application Engineer, Seeed Studio)
 
-2:00-3:00 - Lab: Hands-On Keyword Spotting  (Seeed)
+2:00-3:00 - Lab: Hands-On Keyword Spotting  (Citric Li, Application Engineer, Seeed Studio and Allen Kuang, Application Engineer, Seeed Studio)
 
 3:00-3:30 - Networking break
 
-3:30-5:00 - Lab: Hands-On Keyword Spotting  (Seeed)
+3:30-5:00 - Lab: Hands-On Keyword Spotting  (Citric Li, Application Engineer, Seeed Studio and Allen Kuang, Application Engineer, Seeed Studio)
 
 ## Day 4 – April 29 (Group project)
 
