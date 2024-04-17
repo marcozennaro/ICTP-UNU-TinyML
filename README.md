@@ -66,7 +66,7 @@
 
 10:30-11:30 - Prompt Engineering (Serge Stinckwich, UNU) 
 
-11:30-12:30 - Empower every stage of TinyML application development (Liliya Wu, ARM)
+11:30-12:30 - Empower every stage of TinyML application development (Liliya Wu, Arm)
 
 12:30-1:30 - Lunch break
 
