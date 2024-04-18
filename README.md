@@ -2,7 +2,7 @@
 
 ## **Day 1 – April 26**
 
-10:00-10:30 - Opening (case studies, group projects) and [presentation of participants](https://padlet.com/marcozennaro/ictp-unu-workshop-on-tinyml-for-sustainable-development-7n4fxbg8eu6xsg5g)) 
+10:00-10:30 - Opening (case studies, group projects) and [presentation of participants](https://padlet.com/marcozennaro/ictp-unu-workshop-on-tinyml-for-sustainable-development-7n4fxbg8eu6xsg5g) 
 
 10:30-11:00 - Networking break
 
