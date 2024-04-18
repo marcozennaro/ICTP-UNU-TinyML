@@ -44,7 +44,7 @@
 
 10:00-10:30 - Networking break
 
-10:30-11:30 - Ethics of AI and LLM (Serge Stinckwich, UNU / Ally)
+10:30-11:30 - Ethics of AI (Serge Stinckwich, UNU / Ally)
 
 11:30 - 12:00 - Moral Machine (Serge Stinckwich, UNU / Ally)
 
