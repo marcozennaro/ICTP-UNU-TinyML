@@ -16,7 +16,7 @@
 
 3:00-3:30 - Networking break
 
-4:30-5:30  - Edge Impulse Overview or Teachable Machine (Marco Zennaro, ICTP)
+4:30-5:30  - [Introduction to Teachable Machine](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/Teachable_Machine.pdf) (Marco Zennaro, ICTP)
 
 ## Day 2 – April 27 (Video)
 
