@@ -1,4 +1,4 @@
-# Draft Agenda
+#  Agenda
 
 ## **Day 1 – April 26**
 
