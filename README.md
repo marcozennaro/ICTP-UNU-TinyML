@@ -16,7 +16,7 @@
 
 3:00-3:30 - Networking break
 
-4:30-5:30  - [Introduction to Teachable Machine](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/Teachable_Machine.pdf) (Marco Zennaro, ICTP)
+3:30-5:00  - [Introduction to Teachable Machine](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/Teachable_Machine.pdf) (Marco Zennaro, ICTP)
 
 ## Day 2 – April 27 (Video)
 
