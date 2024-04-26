@@ -6,7 +6,7 @@
 
 10:30-11:00 - Networking break
 
-11:00-12:00 - Keynote: TinyML for Good (Thomas Basikolo, ITU) 
+11:00-12:00 - Keynote: [TinyML for Good](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/tinyML%20for_Good_2024_UNU-ICTP-tinyML-workshop_Macau_Thomas.pdf) (Thomas Basikolo, ITU) 
 
 12:00-1:00 - Lunch break
 
