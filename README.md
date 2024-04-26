@@ -12,7 +12,7 @@
 
 1:00-2:00 - Introduction to TinyML (Marco Zennaro, ICTP)
 
-2:00-3:00 - Presentation of TinyML projects (Ellie Cai, Community Manager, Seeed Studio)
+2:00-3:00 - [Presentation of TinyML projects](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/Ellie%20Cai_Seeed%20TinyML%20for%20SDGs_20240417.pdf) (Ellie Cai, Community Manager, Seeed Studio)
 
 3:00-3:30 - Networking break
 
