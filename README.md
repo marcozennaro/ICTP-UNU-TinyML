@@ -22,7 +22,7 @@
 
 9:00-10:00 - [Intro to ML + Convolutions](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/Intro%20to%20ML%20and%20Computer%20Vision_tinyML%20Workshop_v3.pdf) (Thomas Basikolo, ITU)
 
-10:00-10:30 - Networking break
+10:00-10:30 - Networking break and [Group Photo](https://photos.app.goo.gl/CJ2ZxtKMmJMA41d16)
 
 10:30-11:30 -IoT for SDGs (Serge Stinckwich, UNU) 
 
