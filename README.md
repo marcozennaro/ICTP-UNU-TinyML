@@ -30,13 +30,13 @@
 
 12:00-1:00 - Lunch break
 
-1:00-2:00 - Lab: Hands-On Computer Vision (Citric Li, Application Engineer, Seeed Studio and Allen Kuang, Application Engineer, Seeed Studio)
+1:00-2:00 - [Lab: Hands-On Computer Vision](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/Lab1.pdf) (Citric Li, Application Engineer, Seeed Studio and Allen Kuang, Application Engineer, Seeed Studio)
 
-2:00-3:00 - Lab: Hands-On Computer Vision (Citric Li, Application Engineer, Seeed Studio and Allen Kuang, Application Engineer, Seeed Studio)
+2:00-3:00 - [Lab: Hands-On Computer Vision](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/Lab1.pdf) (Citric Li, Application Engineer, Seeed Studio and Allen Kuang, Application Engineer, Seeed Studio)
 
 3:00-3:30 - Networking break
 
-3:30-5:00 - Lab: Hands-On Computer Vision (Citric Li, Application Engineer, Seeed Studio and Allen Kuang, Application Engineer, Seeed Studio)
+3:30-5:00 - [Lab: Hands-On Computer Vision](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/Lab1.pdf) (Citric Li, Application Engineer, Seeed Studio and Allen Kuang, Application Engineer, Seeed Studio)
 
 ## Day 3 – April 28 (Audio)
 
