@@ -20,7 +20,7 @@
 
 ## Day 2 – April 27 (Video)
 
-9:00-10:00 - Intro to ML + Convolutions (Thomas Basikolo, ITU)
+9:00-10:00 - [Intro to ML + Convolutions](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/Intro%20to%20ML%20and%20Computer%20Vision_tinyML%20Workshop_v3.pdf) (Thomas Basikolo, ITU)
 
 10:00-10:30 - Networking break
 
