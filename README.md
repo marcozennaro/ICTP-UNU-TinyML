@@ -26,7 +26,7 @@
 
 10:30-11:30 -IoT for SDGs (Serge Stinckwich, UNU) 
 
-11:30-12:00 -Intro to Arduino (Serge Stinckwich,UNU)
+11:30-12:00 - [Intro to Arduino](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/1-Arduino-Tutorial.pdf) (Serge Stinckwich,UNU)
 
 12:00-1:00 - Lunch break
 
