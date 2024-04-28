@@ -40,13 +40,15 @@
 
 ## Day 3 – April 28 (Audio)
 
-9:00-10:00 - Preprocessing for Audio and Keyword Spotting (Marco Zennaro, ICTP)
+9:00-9:15 - ICTP opportunities (Marco Zennaro, ICTP)
+
+9:15-10:00 - Introduction to Edge Impulse (Marco Zennaro, ICTP)
 
 10:00-10:30 - Networking break
 
-10:30-11:30 - Ethics of AI (Serge Stinckwich, UNU / Ally)
+10:30-11:30 - [Ethics of AI](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/Ethics-Ally.pdf) (Ally Nyamawe, UNU)
 
-11:30 - 12:00 - Moral Machine (Serge Stinckwich, UNU / Ally)
+11:30 - 12:00 - Moral Machine Demo (Ally Nyamawe, UNU)
 
 12:00-1:00 - Lunch break
 
