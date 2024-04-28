@@ -42,7 +42,7 @@
 
 9:00-9:15 - [ICTP opportunities](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/ICTP_2024.pdf) (Marco Zennaro, ICTP)
 
-9:15-10:00 - Introduction to Edge Impulse (Marco Zennaro, ICTP)
+9:15-10:00 - [Introduction to Edge Impulse](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/Intro_Edge_Impulse.pdf) (Marco Zennaro, ICTP)
 
 10:00-10:30 - Networking break
 
@@ -52,13 +52,13 @@
 
 12:00-1:00 - Lunch break
 
-1:00-2:00 - Lab: Hands-On Keyword Spotting (Citric Li, Application Engineer, Seeed Studio and Allen Kuang, Application Engineer, Seeed Studio)
+1:00-2:00 - [Lab: Hands-On Keyword Spotting](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/Lab1.pdf) (Citric Li, Application Engineer, Seeed Studio and Allen Kuang, Application Engineer, Seeed Studio)
 
-2:00-3:00 - Lab: Hands-On Keyword Spotting  (Citric Li, Application Engineer, Seeed Studio and Allen Kuang, Application Engineer, Seeed Studio)
+2:00-3:00 - [Lab: Hands-On Keyword Spotting](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/Lab1.pdf)  (Citric Li, Application Engineer, Seeed Studio and Allen Kuang, Application Engineer, Seeed Studio)
 
 3:00-3:30 - Networking break
 
-3:30-5:00 - Lab: Hands-On Keyword Spotting  (Citric Li, Application Engineer, Seeed Studio and Allen Kuang, Application Engineer, Seeed Studio)
+3:30-5:00 - [Lab: Hands-On Keyword Spotting](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/Lab1.pdf)  (Citric Li, Application Engineer, Seeed Studio and Allen Kuang, Application Engineer, Seeed Studio)
 
 ## Day 4 – April 29 (Group project)
 
