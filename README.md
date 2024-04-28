@@ -40,7 +40,7 @@
 
 ## Day 3 – April 28 (Audio)
 
-9:00-9:15 - ICTP opportunities (Marco Zennaro, ICTP)
+9:00-9:15 - [ICTP opportunities](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/ICTP_2024.pdf) (Marco Zennaro, ICTP)
 
 9:15-10:00 - Introduction to Edge Impulse (Marco Zennaro, ICTP)
 
