@@ -48,7 +48,7 @@
 
 10:30-11:30 - [Ethics of AI](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/Ethics-Ally.pdf) (Ally Nyamawe, UNU)
 
-11:30 - 12:00 - Moral Machine Demo (Ally Nyamawe, UNU)
+11:30 - 12:00 - [Moral Machine Demo](https://www.moralmachine.net/) (Ally Nyamawe, UNU)
 
 12:00-1:00 - Lunch break
 
