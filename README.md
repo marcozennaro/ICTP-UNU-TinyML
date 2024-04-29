@@ -10,7 +10,7 @@
 
 12:00-1:00 - Lunch break
 
-1:00-2:00 - Introduction to TinyML (Marco Zennaro, ICTP)
+1:00-2:00 - [Introduction to TinyML](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/Intro_TinyML.pdf) (Marco Zennaro, ICTP)
 
 2:00-3:00 - [Presentation of TinyML projects](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/Ellie%20Cai_Seeed%20TinyML%20for%20SDGs_20240417.pdf) (Ellie Cai, Community Manager, Seeed Studio)
 
@@ -24,9 +24,7 @@
 
 10:00-10:30 - Networking break and [Group Photo](https://photos.app.goo.gl/CJ2ZxtKMmJMA41d16)
 
-10:30-11:30 -IoT for SDGs (Serge Stinckwich, UNU) 
-
-11:30-12:00 - [Intro to Arduino](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/1-Arduino-Tutorial.pdf) (Serge Stinckwich,UNU)
+10:30-12:00 - [Intro to Arduino](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/1-Arduino-Tutorial.pdf) (Serge Stinckwich,UNU)
 
 12:00-1:00 - Lunch break
 
