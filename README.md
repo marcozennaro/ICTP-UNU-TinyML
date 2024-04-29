@@ -42,7 +42,9 @@
 
 9:00-9:15 - [ICTP opportunities](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/ICTP_2024.pdf) (Marco Zennaro, ICTP)
 
-9:15-10:00 - [Introduction to Edge Impulse](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/Intro_Edge_Impulse.pdf) (Marco Zennaro, ICTP)
+9:15-9:45 - [Introduction to Edge Impulse](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/Intro_Edge_Impulse.pdf) (Marco Zennaro, ICTP)
+
+9:45-10:15 - [The Use of Synthetic Data for Training AI Models](Serge Stinckwich,UNU)
 
 10:00-10:30 - Networking break
 
