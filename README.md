@@ -62,7 +62,7 @@
 
 ## Day 4 – April 29 (Group project)
 
-9:00-10:00 -  AI for Good (Thomas Basikolo, ITU)
+9:00-10:00 -  [AI for Good](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/AI%20for%20Good%20_ICT-UNU-tinyML_Thomas_v1.pdf) (Thomas Basikolo, ITU)
 
 10:00-10:30 - Networking break
 
