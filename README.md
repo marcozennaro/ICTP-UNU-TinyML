@@ -66,7 +66,7 @@
 
 10:00-10:30 - Networking break
 
-10:30-11:30 - Prompt Engineering (Serge Stinckwich, UNU) 
+10:30-11:30 - [Prompt Engineering](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/PromptEngineering.pdf) (Serge Stinckwich, UNU) 
 
 11:30-12:30 - [Empower every stage of TinyML application development](https://github.com/marcozennaro/ICTP-UNU-TinyML/blob/main/Empower%20every%20stage%20of%20TinyML%20application%20development.pdf) (Liliya Wu, Arm)
 
